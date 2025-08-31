@@ -78,7 +78,8 @@ Benefits:
 
 - Booking System — Actors & Use Cases
 
-Diagram Link: 
+Diagram Link: ![Booking System Use Case Diagram](alx-booking-uc.png)
+
 
 
 
