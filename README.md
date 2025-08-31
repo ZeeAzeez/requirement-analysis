@@ -28,6 +28,39 @@ Organize and represent requirements with diagrams (e.g., use case diagrams, data
 - Requirement Validation
 Review requirements with stakeholders to ensure accuracy, completeness, and alignment with business objectives.
 
+# Types of Requirements
+** Functional Requirements
+
+These define what the system should do — the core features and behaviors of the booking management system.
+
+Examples for Booking Management System:
+
+Users can search for available properties based on location, date, and price.
+
+The system allows user registration and login.
+
+Vendors can list and update property details (photos, descriptions, pricing).
+
+Users can book a property and receive confirmation via email.
+
+The system provides a payment gateway for secure transactions.
+
+** Non-functional Requirements
+
+These describe how the system should perform — the quality attributes that impact user experience and system reliability.
+
+Examples for Booking Management System:
+
+Performance: Search results must load in under 2 seconds.
+
+Scalability: The system should support up to 10,000 concurrent users.
+
+Security: User data and payment details must be encrypted.
+
+Availability: The system should maintain 99.9% uptime.
+
+Usability: The interface should be mobile-friendly and accessible.
+
 
 
 
