@@ -61,6 +61,24 @@ Availability: The system should maintain 99.9% uptime.
 
 Usability: The interface should be mobile-friendly and accessible.
 
+# Use Case Diagrams
+
+What they are:
+Use Case Diagrams visualize how actors (users or external systems) interact with the system via use cases (goals/actions). They give a high-level, non-technical view of system scope and responsibilities.
+
+Benefits:
+
+- Clarifies scope and core user goals
+
+- Aligns stakeholders with a shared visual
+
+- Aids in spotting missing or redundant features
+
+- Serves as a starting point for requirements, flows, and tests
+
+- Booking System — Actors & Use Cases
+
+Diagram Link: 
 
 
 
