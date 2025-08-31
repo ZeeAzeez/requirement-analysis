@@ -12,4 +12,22 @@ Guides development – provides the blueprint for design and coding.
 Improves communication – keeps stakeholders and developers aligned.
 Sets validation standards – enables clear testing and acceptance.
 
+# Key Activities in Requirement Analysis
+- Requirement Gathering
+Collect stakeholder needs and expectations through interviews, surveys, and workshops.
+
+- Requirement Elicitation
+Refine and elaborate on gathered requirements using techniques like brainstorming, prototyping, and use case discussions.
+
+- Requirement Documentation
+Record requirements in clear, structured formats such as Software Requirement Specifications (SRS), use cases, and user stories.
+
+- Requirement Analysis and Modeling
+Organize and represent requirements with diagrams (e.g., use case diagrams, data flow diagrams) to understand system interactions and structure.
+
+- Requirement Validation
+Review requirements with stakeholders to ensure accuracy, completeness, and alignment with business objectives.
+
+
+
 
